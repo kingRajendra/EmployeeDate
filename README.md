@@ -9,6 +9,4 @@ Output -Person Name + Date + checkin time + checkout time+Dept+working hours per
 
 Add test cases to validate the program
 
-Use any one of the programming languages to solve the above (C / C++ / Java / Javascript)
-
 Json file attached
